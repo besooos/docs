@@ -73,12 +73,12 @@
           "icon": "newspaper"
         }
       ]
-    }
+    }aaa
   },
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
-  },
+  },aaa
   "navbar": {
     "links": [
       {
